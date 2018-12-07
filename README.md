@@ -1,1 +1,2 @@
-# LojaPOO_Restful_PHP
+# lojaPOO
+Exemplos OO PHP - TSI
